@@ -1,0 +1,31 @@
+ a {
+     font-size: 24px;
+     color: green;
+
+}
+a:hover { 
+    font-weight: bold;
+    background-color: blueviolet;
+
+}
+
+a:active {
+    background-color: aquamarine;
+}
+
+a:focus {
+    color: crimson;
+
+}
+
+.p1 {
+    font-size: 20px;
+}
+.p2{ 
+    font-size: 30px;
+}
+
+.p3 {
+    font-size: 40px;
+}
+
